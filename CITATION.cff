@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "coldchain-monitor: forecasting and excursion early warning for milk cold-storage temperature"
+authors:
+  - family-names: "Shynarbek"
+    given-names: "Aiganym"
+    affiliation: "Astana IT University"
+version: 0.1.0
+date-released: 2026-10-10
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/milk-coldchain-monitor"
+keywords:
+  - cold chain
+  - dairy
+  - time series forecasting
+  - ARIMA
+  - early warning
